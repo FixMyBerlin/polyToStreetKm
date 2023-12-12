@@ -1,0 +1,2064 @@
+{
+  "type": "FeatureCollection",
+  "id": "0-length-3.2638479617814133",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/11822426",
+      "properties": {
+        "cycleway:both": "no",
+        "destination:forward": "Alle Richtungen",
+        "highway": "tertiary",
+        "maxspeed": "30",
+        "name": "Bahnhofstraße",
+        "source:maxspeed": "sign",
+        "usability:skate": "intermediate",
+        "zone:traffic": "DE:urban",
+        "id": "way/11822426"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1015911,
+            48.9471226
+          ],
+          [
+            9.1014701,
+            48.9471213
+          ],
+          [
+            9.1014261,
+            48.9471206
+          ],
+          [
+            9.1013537,
+            48.9471178
+          ],
+          [
+            9.1012466,
+            48.9471154
+          ],
+          [
+            9.1011387,
+            48.9471126
+          ],
+          [
+            9.1010517,
+            48.9471088
+          ],
+          [
+            9.1009699,
+            48.9470944
+          ],
+          [
+            9.100898,
+            48.9470739
+          ],
+          [
+            9.1008426,
+            48.9470513
+          ],
+          [
+            9.1007792,
+            48.9470244
+          ],
+          [
+            9.1007496,
+            48.9470024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26291057",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Kirchstraße",
+        "source:maxspeed": "DE:zone30",
+        "id": "way/26291057"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0963495,
+            48.9484915
+          ],
+          [
+            9.0963458,
+            48.9483329
+          ],
+          [
+            9.0963517,
+            48.9481448
+          ],
+          [
+            9.0963825,
+            48.9479822
+          ],
+          [
+            9.096419,
+            48.9478345
+          ],
+          [
+            9.0964637,
+            48.9477986
+          ],
+          [
+            9.0965691,
+            48.9477687
+          ],
+          [
+            9.0968542,
+            48.9477548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26291060",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Kelterstraße",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "id": "way/26291060"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0965671,
+            48.9471577
+          ],
+          [
+            9.0965897,
+            48.9470677
+          ],
+          [
+            9.0965832,
+            48.9467083
+          ],
+          [
+            9.0965533,
+            48.9461031
+          ],
+          [
+            9.0966094,
+            48.9456726
+          ],
+          [
+            9.0966622,
+            48.9455889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Gerokstraße",
+        "sidewalk": "both",
+        "source:maxspeed": "DE:zone30",
+        "surface": "asphalt",
+        "width": "5.9",
+        "zone:traffic": "DE:urban",
+        "id": "way/28160029",
+        "_split": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.100546419057784,
+            48.9457380403012
+          ],
+          [
+            9.1002193,
+            48.9457154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bicycle": "use_sidepath",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Wörthstraße",
+        "sidewalk": "separate",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "usability:skate": "good",
+        "id": "way/30497905",
+        "_split": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.101889116441914,
+            48.94846112651287
+          ],
+          [
+            9.1018851,
+            48.9484409
+          ],
+          [
+            9.1018415,
+            48.9482167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30772910",
+      "properties": {
+        "cycleway:left": "track",
+        "cycleway:left:oneway": "no",
+        "cycleway:left:segregated": "no",
+        "cycleway:right": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Wörthstraße",
+        "sidewalk:left": "yes",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "usability:skate": "good",
+        "id": "way/30772910"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1018415,
+            48.9482167
+          ],
+          [
+            9.10182,
+            48.9481035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32265785",
+      "properties": {
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Flößerstraße",
+        "sidewalk": "right",
+        "source:maxspeed": "DE:zone30",
+        "surface": "asphalt",
+        "id": "way/32265785"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1000454,
+            48.947916
+          ],
+          [
+            9.100476,
+            48.947862
+          ],
+          [
+            9.1006534,
+            48.9478792
+          ],
+          [
+            9.1007374,
+            48.9479204
+          ],
+          [
+            9.1007817,
+            48.947962
+          ],
+          [
+            9.1008601,
+            48.9481227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32761869",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Meierhofstraße",
+        "source:maxspeed": "DE:zone30",
+        "id": "way/32761869"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0980154,
+            48.9481797
+          ],
+          [
+            9.0976131,
+            48.9479439
+          ],
+          [
+            9.0975603,
+            48.9479391
+          ],
+          [
+            9.0973967,
+            48.9479665
+          ],
+          [
+            9.0971954,
+            48.9479627
+          ],
+          [
+            9.0968772,
+            48.9479547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Frauenstraße",
+        "id": "way/32761870",
+        "_split": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0965533,
+            48.9461031
+          ],
+          [
+            9.096326040445685,
+            48.94607926985834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Lindenstraße",
+        "id": "way/33096945",
+        "_split": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.098689856650923,
+            48.94548745319587
+          ],
+          [
+            9.0987135,
+            48.9456675
+          ],
+          [
+            9.099286,
+            48.9464541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33097798",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Backhausstraße",
+        "source:maxspeed": "DE:zone30",
+        "id": "way/33097798"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0982183,
+            48.947529
+          ],
+          [
+            9.0991195,
+            48.9475605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33097841",
+      "properties": {
+        "highway": "service",
+        "id": "way/33097841"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0982183,
+            48.947529
+          ],
+          [
+            9.09819,
+            48.9474514
+          ],
+          [
+            9.0981355,
+            48.9474065
+          ],
+          [
+            9.0979218,
+            48.9472494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33097856",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Meierhofstraße",
+        "source:maxspeed": "DE:zone30",
+        "id": "way/33097856"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0974915,
+            48.9475181
+          ],
+          [
+            9.0975563,
+            48.9479043
+          ],
+          [
+            9.0975603,
+            48.9479391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cycleway:left": "no",
+        "cycleway:right": "lane",
+        "cycleway:right:lane": "exclusive",
+        "cycleway:right:oneway": "no",
+        "highway": "tertiary",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Bahnhofstraße",
+        "ref": "K 1678",
+        "sidewalk:left": "yes",
+        "sidewalk:right": "separate",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "usability:skate": "intermediate",
+        "id": "way/33099867",
+        "_split": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.102042016668879,
+            48.94698786155307
+          ],
+          [
+            9.1019282,
+            48.9470133
+          ],
+          [
+            9.1017963,
+            48.947058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cycleway:both": "no",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Jahnstraße",
+        "source": "GPS",
+        "id": "way/34417407",
+        "_split": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.096145227609725,
+            48.94712251664133
+          ],
+          [
+            9.0962105,
+            48.9471305
+          ],
+          [
+            9.0963935,
+            48.9471444
+          ],
+          [
+            9.0965671,
+            48.9471577
+          ],
+          [
+            9.0969296,
+            48.9471934
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34417409",
+      "properties": {
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Bahnhofstraße",
+        "sidewalk": "both",
+        "source:maxspeed": "DE:zone30",
+        "surface": "asphalt",
+        "width": "5",
+        "zone:traffic": "DE:urban",
+        "id": "way/34417409"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1007496,
+            48.9470024
+          ],
+          [
+            9.1005587,
+            48.947107
+          ],
+          [
+            9.1005003,
+            48.947132
+          ],
+          [
+            9.1004375,
+            48.9471378
+          ],
+          [
+            9.1003375,
+            48.9471378
+          ],
+          [
+            9.1002477,
+            48.9471319
+          ],
+          [
+            9.0999882,
+            48.9471102
+          ],
+          [
+            9.0999371,
+            48.9471066
+          ],
+          [
+            9.0992626,
+            48.9470589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34417411",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Brückenstraße",
+        "source:maxspeed": "DE:zone30",
+        "surface": "asphalt",
+        "id": "way/34417411"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0967965,
+            48.9484006
+          ],
+          [
+            9.0968248,
+            48.948164
+          ],
+          [
+            9.0968772,
+            48.9479547
+          ],
+          [
+            9.0968711,
+            48.9478533
+          ],
+          [
+            9.0968542,
+            48.9477548
+          ],
+          [
+            9.0968366,
+            48.9475627
+          ],
+          [
+            9.0969296,
+            48.9471934
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41876204",
+      "properties": {
+        "highway": "living_street",
+        "name": "Gustav-Mahler-Straße",
+        "source": "GPS",
+        "id": "way/41876204"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0965533,
+            48.9461031
+          ],
+          [
+            9.0968069,
+            48.946144
+          ],
+          [
+            9.0973391,
+            48.9461778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42811718",
+      "properties": {
+        "highway": "living_street",
+        "lcn": "yes",
+        "lit": "yes",
+        "name": "Flößerstraße",
+        "surface": "asphalt",
+        "id": "way/42811718"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1001556,
+            48.9484106
+          ],
+          [
+            9.1005016,
+            48.9482627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42811719",
+      "properties": {
+        "highway": "living_street",
+        "lit": "yes",
+        "name": "Flößerstraße",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width": "6",
+        "id": "way/42811719"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1005016,
+            48.9482627
+          ],
+          [
+            9.1007806,
+            48.9481503
+          ],
+          [
+            9.1008601,
+            48.9481227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/116812769",
+      "properties": {
+        "highway": "residential",
+        "lcn": "yes",
+        "maxspeed": "30",
+        "name": "Flößerstraße",
+        "id": "way/116812769"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0980154,
+            48.9481797
+          ],
+          [
+            9.0989049,
+            48.9479391
+          ],
+          [
+            9.0990262,
+            48.9479135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/116812774",
+      "properties": {
+        "highway": "living_street",
+        "lcn": "yes",
+        "name": "Flößerstraße",
+        "surface": "paving_stones",
+        "traffic_calming": "bump",
+        "id": "way/116812774"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0968901,
+            48.9485689
+          ],
+          [
+            9.0969718,
+            48.9485434
+          ],
+          [
+            9.0970138,
+            48.9484835
+          ],
+          [
+            9.097056,
+            48.9483769
+          ],
+          [
+            9.0971385,
+            48.948304
+          ],
+          [
+            9.0972673,
+            48.9482553
+          ],
+          [
+            9.0975876,
+            48.9482064
+          ],
+          [
+            9.0978982,
+            48.9481862
+          ],
+          [
+            9.0980154,
+            48.9481797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Mühlweg",
+        "surface": "asphalt",
+        "id": "way/117410878",
+        "_split": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1020017,
+            48.9481278
+          ],
+          [
+            9.1021248,
+            48.9481093
+          ],
+          [
+            9.102221600602192,
+            48.948066293075435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/118291602",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Kreuzstraße",
+        "oneway": "yes",
+        "id": "way/118291602"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0997884,
+            48.9457963
+          ],
+          [
+            9.0996292,
+            48.9456325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/118298022",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Kreuzstraße",
+        "surface": "asphalt",
+        "id": "way/118298022"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0997884,
+            48.9457963
+          ],
+          [
+            9.0994818,
+            48.9461084
+          ],
+          [
+            9.0993933,
+            48.9462582
+          ],
+          [
+            9.099286,
+            48.9464541
+          ],
+          [
+            9.0992953,
+            48.9467417
+          ],
+          [
+            9.0993003,
+            48.9469559
+          ],
+          [
+            9.0992626,
+            48.9470589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "destination:forward": "Alle Richtungen",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Ludwigsburger Straße",
+        "priority_road": "designated",
+        "sidewalk": "both",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "usability:skate": "intermediate",
+        "zone:traffic": "DE:urban",
+        "id": "way/132367778",
+        "_split": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1002193,
+            48.9457154
+          ],
+          [
+            9.1002514,
+            48.9456256
+          ],
+          [
+            9.1003114,
+            48.9455192
+          ],
+          [
+            9.100321719922658,
+            48.94550868416944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Kelterstraße",
+        "id": "way/132367786",
+        "_split": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0966622,
+            48.9455889
+          ],
+          [
+            9.0966423,
+            48.9455148
+          ],
+          [
+            9.0966453651239,
+            48.945460853819355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/132367794",
+      "properties": {
+        "cycleway:both": "no",
+        "highway": "unclassified",
+        "maxspeed": "30",
+        "name": "Gerokstraße",
+        "id": "way/132367794"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0996292,
+            48.9456325
+          ],
+          [
+            9.0992186,
+            48.945633
+          ],
+          [
+            9.0987135,
+            48.9456675
+          ],
+          [
+            9.0975104,
+            48.945627
+          ],
+          [
+            9.0973908,
+            48.945622
+          ],
+          [
+            9.0973223,
+            48.9456198
+          ],
+          [
+            9.0969122,
+            48.9455981
+          ],
+          [
+            9.0966622,
+            48.9455889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149721868",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Jahnstraße",
+        "source": "GPS",
+        "id": "way/149721868"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0969296,
+            48.9471934
+          ],
+          [
+            9.0974743,
+            48.9471561
+          ],
+          [
+            9.0977784,
+            48.9470912
+          ],
+          [
+            9.0982493,
+            48.9470031
+          ],
+          [
+            9.0984173,
+            48.9469872
+          ],
+          [
+            9.0986501,
+            48.9469755
+          ],
+          [
+            9.0993003,
+            48.9469559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169267128",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Kreuzstraße",
+        "oneway": "yes",
+        "source:maxspeed": "DE:zone30",
+        "id": "way/169267128"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0997884,
+            48.9457963
+          ],
+          [
+            9.0997836,
+            48.9457801
+          ],
+          [
+            9.0997875,
+            48.9457639
+          ],
+          [
+            9.0997997,
+            48.9457494
+          ],
+          [
+            9.0998134,
+            48.9457409
+          ],
+          [
+            9.099836,
+            48.9457337
+          ],
+          [
+            9.0998714,
+            48.945733
+          ],
+          [
+            9.0998946,
+            48.9457393
+          ],
+          [
+            9.0999072,
+            48.9457459
+          ],
+          [
+            9.0999215,
+            48.9457595
+          ],
+          [
+            9.0999273,
+            48.9457721
+          ],
+          [
+            9.0999268,
+            48.9457886
+          ],
+          [
+            9.0999185,
+            48.945803
+          ],
+          [
+            9.0999024,
+            48.9458156
+          ],
+          [
+            9.0998804,
+            48.945824
+          ],
+          [
+            9.0998557,
+            48.9458268
+          ],
+          [
+            9.099831,
+            48.9458239
+          ],
+          [
+            9.0998093,
+            48.9458156
+          ],
+          [
+            9.0997976,
+            48.9458073
+          ],
+          [
+            9.0997884,
+            48.9457963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/258966360",
+      "properties": {
+        "highway": "service",
+        "motor_vehicle": "private",
+        "name": "Flößerstraße",
+        "surface": "paved",
+        "traffic_sign": "DE:250,[Anwohner frei]",
+        "vehicle": "destination",
+        "id": "way/258966360"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0980154,
+            48.9481797
+          ],
+          [
+            9.0980296,
+            48.9482524
+          ],
+          [
+            9.0980852,
+            48.9485363
+          ],
+          [
+            9.0981137,
+            48.9485722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271991020",
+      "properties": {
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Kreuzstraße",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "id": "way/271991020"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0992626,
+            48.9470589
+          ],
+          [
+            9.0992546,
+            48.9470882
+          ],
+          [
+            9.0991195,
+            48.9475605
+          ],
+          [
+            9.0991063,
+            48.9476005
+          ],
+          [
+            9.0990771,
+            48.947637
+          ],
+          [
+            9.0991097,
+            48.947903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368356902",
+      "properties": {
+        "highway": "residential",
+        "lcn": "yes",
+        "maxspeed": "30",
+        "name": "Flößerstraße",
+        "surface": "asphalt",
+        "id": "way/368356902"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0991097,
+            48.947903
+          ],
+          [
+            9.0991995,
+            48.9479044
+          ],
+          [
+            9.0996694,
+            48.9479465
+          ],
+          [
+            9.1000454,
+            48.947916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368356903",
+      "properties": {
+        "highway": "service",
+        "name": "Flößerstraße",
+        "surface": "paved",
+        "traffic_sign": "DE:250,[Anwohner frei]",
+        "vehicle": "destination",
+        "id": "way/368356903"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0981137,
+            48.9485722
+          ],
+          [
+            9.0981791,
+            48.9485843
+          ],
+          [
+            9.0984032,
+            48.9485762
+          ],
+          [
+            9.0985425,
+            48.9485694
+          ],
+          [
+            9.098584,
+            48.9485675
+          ],
+          [
+            9.0986429,
+            48.9485662
+          ],
+          [
+            9.0988285,
+            48.9486007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368356904",
+      "properties": {
+        "highway": "service",
+        "id": "way/368356904"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0971385,
+            48.948304
+          ],
+          [
+            9.09714,
+            48.9481883
+          ],
+          [
+            9.0971445,
+            48.9481246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368363590",
+      "properties": {
+        "highway": "living_street",
+        "name": "Flößerstraße",
+        "surface": "asphalt",
+        "id": "way/368363590"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0994666,
+            48.9485502
+          ],
+          [
+            9.0996927,
+            48.9485345
+          ],
+          [
+            9.099832,
+            48.94851
+          ],
+          [
+            9.1000319,
+            48.9484558
+          ],
+          [
+            9.100071,
+            48.9484405
+          ],
+          [
+            9.1001556,
+            48.9484106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368363592",
+      "properties": {
+        "highway": "service",
+        "id": "way/368363592"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0991995,
+            48.9479044
+          ],
+          [
+            9.0992173,
+            48.9478506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396222014",
+      "properties": {
+        "destination:backward": "Ortsmitte;Rommelmühle",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Flößerstraße",
+        "sidewalk": "right",
+        "source:maxspeed": "DE:zone30",
+        "surface": "asphalt",
+        "id": "way/396222014"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1008601,
+            48.9481227
+          ],
+          [
+            9.1009177,
+            48.9481375
+          ],
+          [
+            9.1009942,
+            48.9481475
+          ],
+          [
+            9.1013613,
+            48.9481214
+          ],
+          [
+            9.101721,
+            48.9481043
+          ],
+          [
+            9.10182,
+            48.9481035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396222016",
+      "properties": {
+        "cycleway:left": "track",
+        "cycleway:left:oneway": "no",
+        "cycleway:left:segregated": "no",
+        "cycleway:right": "no",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Wörthstraße",
+        "sidewalk": "both",
+        "source:maxspeed": "sign",
+        "turn:lanes:backward": "left|through;right",
+        "usability:skate": "good",
+        "id": "way/396222016"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.10182,
+            48.9481035
+          ],
+          [
+            9.1017532,
+            48.9477782
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396222017",
+      "properties": {
+        "cycleway:left": "track",
+        "cycleway:left:oneway": "no",
+        "cycleway:left:segregated": "no",
+        "cycleway:right": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Wörthstraße",
+        "sidewalk": "both",
+        "source:maxspeed": "sign",
+        "usability:skate": "good",
+        "zone:traffic": "DE:urban",
+        "id": "way/396222017"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1017532,
+            48.9477782
+          ],
+          [
+            9.1016258,
+            48.9472573
+          ],
+          [
+            9.101615,
+            48.9472138
+          ],
+          [
+            9.1015911,
+            48.9471226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "living_street",
+        "lcn": "yes",
+        "lit": "yes",
+        "name": "Flößerstraße",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width": "6",
+        "id": "way/396535594",
+        "_split": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.09591281494869,
+            48.94846348206374
+          ],
+          [
+            9.0963495,
+            48.9484915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/455724679",
+      "properties": {
+        "highway": "tertiary",
+        "lane_markings": "no",
+        "maxspeed": "30",
+        "name": "Ludwigsburger Straße",
+        "priority_road": "designated",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "usability:skate": "intermediate",
+        "zone:traffic": "DE:urban",
+        "id": "way/455724679"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1006476,
+            48.9469022
+          ],
+          [
+            9.1005503,
+            48.9468092
+          ],
+          [
+            9.1004574,
+            48.9466959
+          ],
+          [
+            9.1003689,
+            48.9465797
+          ],
+          [
+            9.1002919,
+            48.946435
+          ],
+          [
+            9.1002255,
+            48.9462887
+          ],
+          [
+            9.100187,
+            48.9461373
+          ],
+          [
+            9.1001716,
+            48.9459825
+          ],
+          [
+            9.1001835,
+            48.945848
+          ],
+          [
+            9.1002193,
+            48.9457154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/480609913",
+      "properties": {
+        "highway": "service",
+        "id": "way/480609913"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0965691,
+            48.9477687
+          ],
+          [
+            9.0965505,
+            48.9477492
+          ],
+          [
+            9.0964727,
+            48.9477443
+          ],
+          [
+            9.0964502,
+            48.9477124
+          ],
+          [
+            9.0964353,
+            48.9476332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/480609915",
+      "properties": {
+        "highway": "service",
+        "source": "GPS",
+        "id": "way/480609915"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0963645,
+            48.947386
+          ],
+          [
+            9.0963566,
+            48.9473739
+          ],
+          [
+            9.0963659,
+            48.9472924
+          ],
+          [
+            9.0963835,
+            48.9471981
+          ],
+          [
+            9.0963935,
+            48.9471444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/496417275",
+      "properties": {
+        "highway": "service",
+        "source": "GPS",
+        "surface": "paving_stones",
+        "id": "way/496417275"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0990262,
+            48.9479135
+          ],
+          [
+            9.0990669,
+            48.9481921
+          ],
+          [
+            9.0990812,
+            48.9482909
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/570502774",
+      "properties": {
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Hirschstraße",
+        "source:maxspeed": "DE:zone30",
+        "id": "way/570502774"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0992546,
+            48.9470882
+          ],
+          [
+            9.0988536,
+            48.9470922
+          ],
+          [
+            9.09875,
+            48.9471014
+          ],
+          [
+            9.0986477,
+            48.947106
+          ],
+          [
+            9.0986,
+            48.947118
+          ],
+          [
+            9.0985118,
+            48.9471649
+          ],
+          [
+            9.0984151,
+            48.9472468
+          ],
+          [
+            9.0983811,
+            48.9472818
+          ],
+          [
+            9.0983585,
+            48.9472931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/631915824",
+      "properties": {
+        "highway": "tertiary",
+        "maxspeed": "30",
+        "name": "Ludwigsburger Straße",
+        "source:maxspeed": "sign",
+        "usability:skate": "intermediate",
+        "zone:traffic": "DE:urban",
+        "id": "way/631915824"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1007496,
+            48.9470024
+          ],
+          [
+            9.1006476,
+            48.9469022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/647831641",
+      "properties": {
+        "cycleway:left": "no",
+        "cycleway:right": "lane",
+        "cycleway:right:lane": "exclusive",
+        "cycleway:right:oneway": "no",
+        "highway": "tertiary",
+        "maxspeed": "30",
+        "name": "Bahnhofstraße",
+        "ref": "K 1678",
+        "source:maxspeed": "sign",
+        "usability:skate": "intermediate",
+        "zone:traffic": "DE:urban",
+        "id": "way/647831641"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1017963,
+            48.947058
+          ],
+          [
+            9.1017169,
+            48.9470817
+          ],
+          [
+            9.1015911,
+            48.9471226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/686269343",
+      "properties": {
+        "highway": "service",
+        "surface": "asphalt",
+        "id": "way/686269343"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0992953,
+            48.9467417
+          ],
+          [
+            9.0998511,
+            48.9467321
+          ],
+          [
+            9.0999453,
+            48.9467311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/747867968",
+      "properties": {
+        "highway": "service",
+        "id": "way/747867968"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0996694,
+            48.9479465
+          ],
+          [
+            9.0996886,
+            48.9481419
+          ],
+          [
+            9.0996355,
+            48.9482399
+          ],
+          [
+            9.0996488,
+            48.9483145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/769259541",
+      "properties": {
+        "highway": "living_street",
+        "lcn": "yes",
+        "name": "Flößerstraße",
+        "surface": "paving_stones",
+        "traffic_calming": "bump",
+        "id": "way/769259541"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.096765,
+            48.9485645
+          ],
+          [
+            9.0968901,
+            48.9485689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/769259542",
+      "properties": {
+        "highway": "living_street",
+        "lcn": "yes",
+        "name": "Flößerstraße",
+        "surface": "paving_stones",
+        "traffic_calming": "bump",
+        "id": "way/769259542"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0963495,
+            48.9484915
+          ],
+          [
+            9.096765,
+            48.9485645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/797543460",
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30",
+        "name": "Gerokstraße",
+        "zone:traffic": "DE:urban",
+        "id": "way/797543460"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1002193,
+            48.9457154
+          ],
+          [
+            9.099927,
+            48.9456817
+          ],
+          [
+            9.0996292,
+            48.9456325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/797543464",
+      "properties": {
+        "cycleway:left": "track",
+        "cycleway:left:oneway": "no",
+        "cycleway:left:segregated": "no",
+        "cycleway:right": "no",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Mühlweg",
+        "sidewalk:left": "yes",
+        "surface": "asphalt",
+        "id": "way/797543464"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1019398,
+            48.9481191
+          ],
+          [
+            9.1020017,
+            48.9481278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/797543465",
+      "properties": {
+        "cycleway:left": "track",
+        "cycleway:left:oneway": "no",
+        "cycleway:left:segregated": "no",
+        "cycleway:right": "no",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Mühlweg",
+        "sidewalk:left": "yes",
+        "surface": "asphalt",
+        "id": "way/797543465"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.10182,
+            48.9481035
+          ],
+          [
+            9.1019074,
+            48.9481151
+          ],
+          [
+            9.1019398,
+            48.9481191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1151549737",
+      "properties": {
+        "highway": "service",
+        "id": "way/1151549737"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.097969,
+            48.9478469
+          ],
+          [
+            9.0975563,
+            48.9479043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1151549742",
+      "properties": {
+        "highway": "residential",
+        "lcn": "yes",
+        "maxspeed": "30",
+        "name": "Flößerstraße",
+        "id": "way/1151549742"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0990262,
+            48.9479135
+          ],
+          [
+            9.0991097,
+            48.947903
+          ]
+        ]
+      }
+    }
+  ]
+}
